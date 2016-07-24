@@ -1,6 +1,5 @@
-# top level stuff you probably don't need to touch
-highlighter: pygments
-markdown: rdiscount
+highlighter: rouge
+markdown: kramdown
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
@@ -10,21 +9,20 @@ port: 3000
 safe: true
 
 
-# edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
-avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+url: http://ericloy.github.io/
+baseurl: /LoyLit/
+title: Eric C. Loy
+author: Eric C. Loy
+description: Academic portfolio and contact information for Eric C. Loy.
+avatar: profile2.png
+email: eric.christian.loy@email.com
+github: ericloy # username
+twitter: eric_loy
+# linkedin: username
+# stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
-google_analytics: UA-69391421-1
+# disqus: username
+# google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
