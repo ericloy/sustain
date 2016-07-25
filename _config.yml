@@ -10,7 +10,7 @@ safe: true
 
 
 url: http://ericloy.me/
-baseurl:
+baseurl: /
 title: Eric C. Loy
 author: Eric C. Loy
 description: Academic portfolio and contact information for Eric C. Loy.
