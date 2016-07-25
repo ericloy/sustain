@@ -9,8 +9,8 @@ port: 3000
 safe: true
 
 
-url: http://ericloy.github.io/
-baseurl: /LoyLit/
+url: http://ericloy.me/
+baseurl: /ericloy.me/
 title: Eric C. Loy
 author: Eric C. Loy
 description: Academic portfolio and contact information for Eric C. Loy.
