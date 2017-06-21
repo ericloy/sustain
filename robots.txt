@@ -1,2 +1,17 @@
 User-agent: *
-Disallow: /
+Disallow: /static
+
+User-agent: *
+Disallow: /assets
+
+User-agent: *
+Disallow: /_includes
+
+User-agent: *
+Disallow: /_layouts
+
+User-agent: *
+Disallow: /_posts
+
+User-agent: *
+Disallow: /_site/static
